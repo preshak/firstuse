@@ -19,6 +19,6 @@ System.out.println("no.s that are armstrongs between 1 to "+n+":");
       if(temp==sum)
       System.out.println(sum);
   }
- 
+ System.out.println("these are your armstrong no");
     }
 }
