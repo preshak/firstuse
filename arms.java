@@ -13,7 +13,9 @@ public class arms {
       {
           rem=j%10;
           sum=sum+(int)Math.pow(rem,c);
-      }
+      }int z=10;
+if(z++ <=10)
+System.out.println("no.s that are armstrongs between 1 to "+n+":");
       if(temp==sum)
       System.out.println(sum);
   }
